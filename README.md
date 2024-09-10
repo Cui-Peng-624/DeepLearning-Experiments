@@ -1,4 +1,4 @@
-# DeepLearning-Exercises
+# DeepLearning-Experiments
 
 This repository contains various deep learning exercises and code implementations. The goal of this repository is to document my learning process in deep learning, covering a range of topics and models. Over time, I may also include replications of research papers as part of my ongoing studies.
 
